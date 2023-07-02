@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43040331692",
+    "project_id": "chatconnect-6c6a4",
+    "storage_bucket": "chatconnect-6c6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43040331692:android:9f0cbc8fb9ce67d48acc09",
+        "android_client_info": {
+          "package_name": "com.project.pradyotprakash.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43040331692-0jgho230nel2sp8k936kc4h7ldl5of88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDPbhBiGXA1Gxq0C3tld95w4YrwadYBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43040331692-0jgho230nel2sp8k936kc4h7ldl5of88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
